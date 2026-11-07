@@ -1,0 +1,22 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- Secrets / local config ---
+config/db.ini
+data/raw/joueurs_reels*.csv        # vrais noms légaux — jamais versionnés
+
+# --- Gros binaires / artefacts régénérables ---
+*.pbix
+outputs/reports/*.pdf
+outputs/studio/*.json
+data/exports/*.csv
+
+# --- OS / éditeurs ---
+desktop.ini
+~$*
+.DS_Store
+*.tmp

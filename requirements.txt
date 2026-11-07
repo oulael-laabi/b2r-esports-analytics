@@ -1,0 +1,17 @@
+# Analyse & data
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+
+# Accès base MySQL / MariaDB
+SQLAlchemy==2.0.30
+PyMySQL==1.1.1
+
+# Rapports PDF (P6)
+reportlab==4.2.2
+
+# Notebooks (exécution locale ; sur Colab déjà présents)
+jupyter==1.0.0
+
+# Le script scripts/generate_dataset.py n'a AUCUNE dépendance
+# (bibliothèque standard uniquement) et tourne sans installer ce fichier.

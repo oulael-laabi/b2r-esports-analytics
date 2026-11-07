@@ -1,0 +1,13 @@
+joueur_id,nom_legal,tag_ingame,equipe_id,jeu_principal,jeu_secondaire,role_tactique,pays,ville,date_naissance,date_rejoins,actif,source_donnee
+1,Joueur 01,VEGA_X,1,1,,IGL,Maroc,Fes,2001-01-24,2024-10-08,1,reelle
+2,Joueur 02,SARA_GG,3,3,,Sniper,Maroc,Rabat,2002-04-05,2026-01-24,1,synthetique
+3,Joueur 03,ORYX,1,1,,Fragger,Maroc,Meknes,2001-11-24,2025-07-12,1,reelle
+4,Joueur 04,DRIFT_MA,2,2,,Fragger,Maroc,Tanger,2001-10-14,2024-02-02,1,synthetique
+5,Joueur 05,KENZO_B,2,2,,IGL,Maroc,Meknes,2001-02-07,2024-08-26,1,synthetique
+6,Joueur 06,ATLAS7,1,1,,Flex,Maroc,Fes,2005-10-01,2025-07-28,1,synthetique
+7,Joueur 07,OMZ,3,3,,Support,Maroc,Fes,2002-12-21,2025-12-19,1,synthetique
+8,Joueur 08,Yuki_op,6,7,,Sniper,Maroc,Casa,2005-07-08,2025-04-04,1,synthetique
+9,Joueur 09,Ghost_UIR,6,7,,Fragger,Maroc,Meknes,2005-05-26,2024-01-07,1,synthetique
+10,Joueur 10,REZA__,6,7,,Support,Maroc,Rabat,2002-12-14,2024-12-14,1,synthetique
+11,Joueur 11,VIPER_ac,6,7,,Flex,Maroc,Rabat,2003-03-07,2026-02-20,1,synthetique
+12,Joueur 12,Nael_ff,6,7,,IGL,Maroc,Fes,2003-02-03,2025-01-24,1,synthetique
